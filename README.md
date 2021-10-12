@@ -1,6 +1,6 @@
 # platzi-curso-practico-javascript
 
-## Talle #1: figuras geométricas
+## Taller #1: figuras geométricas
 
 - Primer paso: definir las formulas
 - Segundo paso: implementar las formular en Javascript
